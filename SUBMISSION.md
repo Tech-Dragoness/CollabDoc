@@ -40,8 +40,8 @@
 - `src/pages/Editor.jsx` — rich-text editor, autosave, sharing, comments, export, access tracking
 - `src/pages/AccessLog.jsx` — who accessed the document and when (owner/collaborator only)
 
-## Not included in this repo (must be provided by you separately)
-- A live product URL (deploy per `DEPLOYMENT.md`, then paste the resulting
-  URL wherever your submission form asks for it)
-- The walkthrough video file itself — `WALKTHROUGH_VIDEO.txt` is a
-  placeholder for its link
+## Not included in this repo (provided separately)
+- Live product URL: https://collab-doc-omega.vercel.app/login
+- The walkthrough video file: https://drive.google.com/file/d/1RS33t4jXKnkj5j_YZSG7W5wLjRCOA-Ds/view?usp=sharing
+-The google drive containing all relevant files: https://drive.google.com/drive/folders/1atwBrq77TsGlyQggB5wrPqN_A-j76_mf?usp=sharing
+-The Github project link: https://github.com/tech-dragoness/collabdoc

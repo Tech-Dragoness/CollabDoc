@@ -1,8 +1,3 @@
-Walkthrough video URL: <paste your video link here, e.g. a Loom or YouTube unlisted link>
+Walkthrough video URL: https://drive.google.com/file/d/1RS33t4jXKnkj5j_YZSG7W5wLjRCOA-Ds/view?usp=sharing
 
-Suggested things to show in the walkthrough (2-4 minutes):
-1. Sign up with an email/password (show the password-strength requirement).
-2. Create a new blank document, apply bold/italic/underline/heading/list formatting, refresh the page to prove it persisted.
-3. Upload a .txt or .docx file and show it becomes a new editable document.
-4. Attach an arbitrary file to a document and download it back.
-5. Share the document with a second account's email; log in as that account and show it under "Shared with you", and show it can be edited but not deleted/shared by the non-owner.
+Live product link: https://collab-doc-omega.vercel.app/login
