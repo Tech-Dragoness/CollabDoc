@@ -1,0 +1,8 @@
+Walkthrough video URL: <paste your video link here, e.g. a Loom or YouTube unlisted link>
+
+Suggested things to show in the walkthrough (2-4 minutes):
+1. Sign up with an email/password (show the password-strength requirement).
+2. Create a new blank document, apply bold/italic/underline/heading/list formatting, refresh the page to prove it persisted.
+3. Upload a .txt or .docx file and show it becomes a new editable document.
+4. Attach an arbitrary file to a document and download it back.
+5. Share the document with a second account's email; log in as that account and show it under "Shared with you", and show it can be edited but not deleted/shared by the non-owner.
