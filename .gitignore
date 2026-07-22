@@ -5,6 +5,7 @@ backend/**/__pycache__/
 backend/.pytest_cache/
 backend/uploads/
 backend/.env
+.env
 
 # Node / Vite
 frontend/node_modules/
